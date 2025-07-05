@@ -2,7 +2,6 @@
 
 JARVIS is a voice-activated AI assistant built with wake-word detection, real-time speech recognition, generative AI (Gemini), and a PyQt6-powered interactive UI — all working seamlessly on your local machine.
 
-> "Yes, sir?" — JARVIS wakes up with your voice and serves your commands like the iconic assistant from Iron Man.
 
 ---
 
