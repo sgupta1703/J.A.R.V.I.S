@@ -21,7 +21,6 @@ JARVIS is a voice-activated AI assistant built with wake-word detection, real-ti
 
 ## Demo Preview
 
-> *(Include a video demo here during the hackathon submission)*  
 > ![demo](demo.gif) or [Watch demo on YouTube](https://your-demo-link)
 
 ---
@@ -110,7 +109,7 @@ To start the assistant:
 ```
 python app.py
 ```
-You should see the GUI appear. Say "Jarvis" to wake the assistant and wait till the end of "Yes, sir" to request your question.
+You should see the GUI appear. Say "Jarvis" to wake the assistant and wait till the end of "Yes, sir" statement to request your question.
 
 
 
