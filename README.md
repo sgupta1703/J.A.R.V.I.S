@@ -19,9 +19,6 @@ JARVIS is a voice-activated AI assistant built with wake-word detection, real-ti
 
 ---
 
-## Demo Preview
-
-> ![demo](demo.gif) or [Watch demo on YouTube](https://your-demo-link)
 
 ---
 
